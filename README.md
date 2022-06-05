@@ -6,7 +6,10 @@ I am a Computer Engineering Student at the Federal University of Ceará
 <div align="left">
     <a href="https://github.com/misaeljunio/github-readme-stats">
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=misaeljunio&show_icons=true&hide_border=true&theme=react" alt="Misael Junio's github stats" />
-    <img height="131" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misaeljunio&layout=compact&hide_border=true&theme=react" />
+</div>
+    
+<div align="left">
+    <img height="131" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misaeljunio&layout=compact&langs_count=7&hide_border=true&theme=react" />
   </a>
 </div>
 
