@@ -26,5 +26,5 @@ I am a Computer Engineering Student at the Federal University of Ceará
 
 <div>  
     <a href="https://www.linkedin.com/in/misaeljunio/" target="_blank"><img height="30" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href = "mailto:misaeljunio150@gmail.com" target="_blank"><img height="30" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+    <a href = "mailto:misaeljunio@alu.ufc.br" target="_blank"><img height="30" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 </div>
