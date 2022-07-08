@@ -1,7 +1,6 @@
 ### Hi I'm Misael Junio!
 I am a Computer Engineering Student at the Federal University of Ceará
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=misaeljunio&color=brightgreen)
 ##
 
 <div align="left">
